@@ -1,5 +1,5 @@
-url: http://www.claroleticia.com/gdts/
-baseurl: claroleticia.com/gdts/
+url: "https://claroleticia.github.io"
+baseurl: "/gdts"
 
 # Site settings
 title: Awesome Title
