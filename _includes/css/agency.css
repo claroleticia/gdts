@@ -877,3 +877,10 @@ html, body {
     width: auto;
     max-width: 100%;
 }
+/* Mobile tweaks for hero title */
+@media (max-width: 480px) {
+    header .intro-text .intro-heading {
+        font-size: 32px;
+        line-height: 36px;
+    }
+}
